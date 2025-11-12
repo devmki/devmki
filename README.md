@@ -1,22 +1,34 @@
 ## Hi there 👋
 
 ### 🛠️ Languages and Tools:</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" alt="Fortran" width="60" heigh="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" heigh="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" heigh="60"/>
+<table>
 
+  <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" alt="Fortran" width="60" height="60" /> </td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" heigh="60" /> </td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" heigh="60"/></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" width="60" heigh="60"/></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="GNU compiler collection" width="60" heigh="60" /></td>
+  </tr>
+    <tr>
+          <td> Fortran </td>
+          <td> Python  </td>
+          <td> C++     </td>
+          <td> Qt      </td>
+          <td> GNU Compiler Collection</td>
+  </tr>
+</table>
 
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" width="60" heigh="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="GNU compiler collection" width="60" heigh="60" />
-          
-</div>
 
 ### 📖 Currently learning:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" />         
-</div>
+<table>
+   <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" /></td>
+   </tr>
+   <tr>
+          <td> Delphi </td>
+   </tr>
+</table>
 
           
           
