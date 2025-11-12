@@ -5,7 +5,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" alt="Fortran" width="60" heigh="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" heigh="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" heigh="60"/>
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" /> -->
+
 
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" width="60" heigh="60"/>
@@ -13,7 +13,11 @@
           
 </div>
 
-          
+### Currently learning:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" />         
+</div>
+
           
           
 <!--
