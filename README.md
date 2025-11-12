@@ -13,7 +13,7 @@
           
 </div>
 
-### Currently learning:
+### 📖 Currently learning:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" />         
 </div>
