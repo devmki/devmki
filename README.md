@@ -24,9 +24,11 @@
 <table>
    <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="delphi" width="60" heigh="60" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></td>
    </tr>
    <tr>
           <td> Delphi </td>
+          <td> Godot </td>
    </tr>
 </table>
 
